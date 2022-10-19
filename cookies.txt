@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.screencapture.com	TRUE	/	FALSE	1999999999	webuid	t8v7f8
+.screencapture.com	TRUE	/	FALSE	1999999999	cartId	aeb805de4668badf0db8999ee166f70d4e036f98
+
